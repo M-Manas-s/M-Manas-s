@@ -1,4 +1,4 @@
-## Hey 👋, I'm I'm Manas
+## Hey 👋, I'm Manas
 
 ### 👨🏻‍💻 &nbsp;About Me
 
