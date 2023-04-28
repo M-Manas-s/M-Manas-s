@@ -1,4 +1,4 @@
-<img alt="Wave" src="./assets/Hand%20Wave.gif" width='30' align="left"/><h2> Hey there! I'm Manas</h2>
+## Hey 👋, I'm I'm Manas
 
 ### 👨🏻‍💻 &nbsp;About Me
 
