@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about APIs, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I sketch or play RTS games.\
 ✉️ &nbsp;You can shoot me an email at manastiwari111222@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15lpaz0b824vuKPEo1QkDdiSZbPQVQILq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]([https://drive.google.com/file/d/15lpaz0b824vuKPEo1QkDdiSZbPQVQILq/view?usp=sharing](https://drive.google.com/file/d/19ehZ-sA9nbzz5UGzFn--sFyPUgGjUjGL/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
 
 ### 💻 Tech Stack
 
